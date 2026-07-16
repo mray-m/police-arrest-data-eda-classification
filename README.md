@@ -43,6 +43,14 @@ ABD'de bir eyalet tarafından yayınlanan Police Transparency – Arrests veri s
 
 **Değerlendirme Metrikleri:** Accuracy, Precision, Recall, F1-score, ROC-AUC
 
+## 🧰 Kullanılan Teknolojiler
+ 
+- **Python**
+- **Jupyter Notebook**
+- **Pandas** & **NumPy** — veri işleme ve analiz
+- **Matplotlib** & **Seaborn** — veri görselleştirme
+- **Scikit-learn** — özellik seçimi (`SelectKBest`), ölçeklendirme (`StandardScaler`), model geliştirme (`GaussianNB`, `RandomForestClassifier`, `DummyClassifier`) ve hiperparametre optimizasyonu (`RandomizedSearchCV`)
+
 ## 👩‍💻 Geliştirici
 
 **Miray Merve Durmuş** — [@mray-m](https://github.com/mray-m)
