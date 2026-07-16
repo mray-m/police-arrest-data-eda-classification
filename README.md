@@ -45,6 +45,6 @@ ABD'de bir eyalet tarafından yayınlanan Police Transparency – Arrests veri s
 
 ## 👩‍💻 Geliştirici
 
-**Miray Merve Durmuş** — [@mray_m](https://github.com/mray_m)
+**Miray Merve Durmuş** — [@mray-m](https://github.com/mray-m)
 
 
